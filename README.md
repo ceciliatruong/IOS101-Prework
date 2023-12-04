@@ -17,13 +17,19 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://github.com/ceciliatruong/IOS101-Prework/blob/main/IOS101-Prework-Demo.gif?raw=true) .
 
 ## App Brainstorming (Step 4)
+
+1. Instagram - some features that I love is the DMs, profile customization, stories
+2. BeReal - random "BeReal" time, unique photo sharing, custom reacts
+3. Venmo - sending/requesting money from friends at ease, cute customizations for sending "gifts", simple UI
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I had difficulties trying to commit my changes and push them onto my Github repository after the first initial commit. I also had issues with recording the GIF captures.
 
 ## License
 
